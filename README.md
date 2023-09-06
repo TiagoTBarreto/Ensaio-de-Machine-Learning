@@ -1,5 +1,4 @@
-# 1. Nome do Projeto
-Ensaio de Machine Learning
+# 1. Ensaio de Machine Learning
 
 # 2. Problema de Negócio
 ## 2.1 Descrição
