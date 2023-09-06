@@ -56,11 +56,12 @@ O conjunto de valores que fizerem os algoritmos alcançarem a melhor performance
 # 6. Resultados
 ## Ensaio de Classificação:
 ## 6.1 Sobre os dados de treinamento
-![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/5ee697b9-a3ed-4845-9708-8d8295996118)
+![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/9b6f9f9a-fbff-4923-b3f0-99459148dd9e)
 ## 6.2 Sobre os dados de validação
-![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/d841bc3a-c39b-4bcc-badf-c30f29c589f0)
+![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/9b07499c-da26-4018-8833-ed541648dafd)
 ## 6.3 Sobre os dados de teste
-![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/41247138-8ed5-4d8a-9a91-3dbe9675ee1e)
+![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/a3572d32-de15-4af6-9b8d-e18e3b48840d)
+
 
 
 
