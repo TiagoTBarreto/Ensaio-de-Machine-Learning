@@ -68,7 +68,7 @@ O conjunto de valores que fizerem os algoritmos alcançarem a melhor performance
 ### 6.5 Sobre os dados de validação
 ![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/1d9e353b-7b56-47a7-96de-7dc9fc6d2325)
 ### 6.6 Sobre os dados de teste
-![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/e503b79e-d921-4d56-89ce-36b58cbec3c3)
+![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/83411a8e-c8bc-4912-9a96-0c81d44a489b)
 
 ## Ensaio de Clusterização:
 ### 6.1 Sobre os dados de treinamento
