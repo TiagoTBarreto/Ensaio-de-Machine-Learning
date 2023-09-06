@@ -48,11 +48,11 @@ O conjunto de valores que fizerem os algoritmos alcançarem a melhor performance
 # 5. Os top 3 Insights
 
 ## 5.1 Insight Top 1
-Em relação ao ensaio de classificação, os modelos baseados em árvores obtiveram as melhores métricas de performance e mesmo mudando de dataset entre treinamento, validação e teste houve uma pequena diminuição das métricas. Concluindo assim que o algoritmo não teve overfitting. 
+Durante o ensaio de classificação, os modelos baseados em árvores obtiveram as melhores métricas de performance e mesmo submetendo o algoritmo a dados não vistos no treinamento houve uma pequena diminuição das métricas. Concluindo assim que o algoritmo não teve overfitting. 
 ## 5.2 Insight Top 2
-Em relação ao ensaio de regressão nenhum algoritmo obteve uma performance muito boa, então para o algoritmo conseguir realizar a tarefa de regressão com precisão seria necessário realizar uma seleção de features, criação de features com base nas já existentes e a coleta de mais dados.
+Durante o ensaio de regressão nenhum algoritmo obteve uma performance muito boa, então para o algoritmo conseguir realizar a tarefa de regressão com precisão seria necessário realizar uma seleção de features, criação de features com base nas já existentes e a coleta de mais dados.
 ## 5.3 Insight Top 3
-Durante o ensaio de regressão, o algoritmo Decision Tree Regressor chegou a quase um R² de 1.00 demonstrando uma grande representatividade dos dados, mas essa grande representativade foi devido ao algoritmo ter decorado os dados, isso pode ser confirmado quando ele foi submetido a dados que o algoritmo nunca tinha visto, chegando a um R² negativo. 
+Durante o ensaio de regressão, o algoritmo Decision Tree Regressor chegou a quase um R² de 1.00 demonstrando que o modelo representava quase em sua totalidade a variação dos dados, mas essa grande representativade foi devido ao algoritmo ter decorado os dados de treinemanto, isso pode ser confirmado quando ele foi submetido a novos dados e que o algoritmo nunca tinha visto, chegando a um R² negativo. 
 
 # 6. Resultados
 ## Ensaio de Classificação:
