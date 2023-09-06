@@ -53,6 +53,10 @@ O conjunto de valores que fizerem os algoritmos alcançarem a melhor performance
 
 ## 5.3 Insight Top 3
 
-![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/538a47d5-6314-447c-b11d-9dd6949c707a)
+# 6. Resultados
+## Ensaio de Classificação:
+## 6.1 Sobre os dados de treinamento
+![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/5ee697b9-a3ed-4845-9708-8d8295996118)
+
 
 
