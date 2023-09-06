@@ -45,3 +45,14 @@ O conjunto de valores que fizerem os algoritmos alcançarem a melhor performance
   8. Medir a performance dos algoritmos treinados com os melhores parâmetro, utilizando o conjunto de dados de teste.
   9. Avaliar os ensaios e anotar os 3 principais Insights que se destacaram.
 
+# 5. Os top 3 Insights
+
+## 5.1 Insight Top 1
+
+## 5.2 Insight Top 2
+
+## 5.3 Insight Top 3
+
+![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/538a47d5-6314-447c-b11d-9dd6949c707a)
+
+
