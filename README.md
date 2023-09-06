@@ -1,4 +1,5 @@
-# 1. Ensaio de Machine Learning
+# 1. Nome do Projeto
+## Ensaio de Machine Learning
 
 # 2. Problema de Negócio
 ## 2.1 Descrição
@@ -75,6 +76,15 @@ Durante o ensaio de regressão, o algoritmo Decision Tree Regressor chegou a qua
 ### 6.7 Sobre os dados de treinamento
 ![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/d6e7c618-3678-4e19-bc16-07b03162ec85)
 
+# 7. Conclusões
+
+Nesse ensaio de Machine Learning, consegui adquirir experiência e entender melhor sobre os limites dos algoritmos entre os estados de underffiting e overfitting.
+
+Os algoritmos baseados em árvores são sensíveis aos números de árvores e a profundidade das árvores, já que aumentando a profundidade da árvore acaba adaptando cada vez mais o algoritmo aos dados de treinamento levando ao overfitting.
+
+Por outro lado os algoritmos de regressão polinomial, o principal parâmetro que leva ao overfitting é o grau do polinômio. Durante o ensaio quanto mais aumentava o grau, melhor o algoritmo performava nos dados de treino mas ao realizar a validação e o teste ele acaba tendo um desempenho péssimo, pois o grau do polinômio faz com que o modelo se adapte aos dados de treino levando assim ao overfitting. Ainda em relação aos algoritmos de regressão, foi possível observar que nesse dataset a regularização Lasso e Elastic não tiveram um desempenho nem parecido com o modelo sem regularização, já a regularização Ridge performou parecido com os algoritmos normais mas mesmo assim não chegaram nem perto de atender as métricas de performance necessárias para colocar os modelos em produção.
+
+Esse ensaio de Machine Learning foi muito importante para aprofundar o entendimento sobre o funcionamento de diversos algoritmos de classificação, regressão e clusterização e quais os principais parâmetros de controle entre os estados de underfitting e overfitting.
 
 # 8. Próximos passos
 Como próximos passos desse ensaio, pretendo ensaiar novos algoritmos de Machine Learning aumentando assim o meu leque de ferramentas para a resolução de problemas. Além de testar esses modelos em novos datasets para conseguir ir aprimorando cada vez mais minha visão de quais algoritmos e quais parâmetros performam melhor de acordo com a particularidade de cada conjunto de dados.
