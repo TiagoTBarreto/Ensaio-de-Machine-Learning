@@ -70,6 +70,10 @@ O conjunto de valores que fizerem os algoritmos alcançarem a melhor performance
 ### 6.6 Sobre os dados de teste
 ![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/e503b79e-d921-4d56-89ce-36b58cbec3c3)
 
+## Ensaio de Clusterização:
+![image](https://github.com/TiagoTBarreto/Ensaio-de-Machine-Learning/assets/137197787/d6e7c618-3678-4e19-bc16-07b03162ec85)
+
+
 
 
 
