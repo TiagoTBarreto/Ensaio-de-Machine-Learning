@@ -21,4 +21,15 @@ métricas, para 3 conjuntos de dados diferentes: Treinamento, validação e test
   1. Algoritmos: Linear Regression, Decision Tree Regressor, Random Forest Regressor, Polinomial Regression, Linear Regression Lasso, Linear Regression Ridge, Linear Regression Elastic Net, Polinomial Regression Lasso, Polinomial Regression Ridge e     Polinomial Regression Elastic Net
   2. Métricas de performance: R2, MSE, RMSE, MAE e MAPE
 
+### Agrupamento:
+  1. Algoritmos: K-Means e Affinity Propagation
+  2. Métricas de performance: Silhouette Score
 
+## 3.3 Ferramentas utilizadas:
+  1. Python 3.8 e Scikit-learn
+
+# 4. Desenvolvimento
+## 4.1 Estratégia da solução
+Para o objetivo de ensaiar os algoritmos de Machine Learning, eu vou escrever os códigos utilizando a linguagem Python, para treinar cada um dos algoritmos e vou variar seus principais parâmetros de ajuste de overfitting e observar a métrica final.
+
+O conjunto de valores que fizerem os algoritmos alcançarem a melhor performance, serão aquelesescolhidos para o treinamento final do algoritmo.
